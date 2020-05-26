@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>uipathstudio</id>
+    <version>2019.10.4</version>
+    <title>UIPath Studio</title>
+    <authors>UIPath</authors>
+    <owners>UIPath</owners>
+    <description>Installs UIPath Studio and Robot</description>
+    <summary>Design, develop and publish UIPath projects</summary>
+    <releaseNotes>https://docs.uipath.com/releasenotes/docs/studio-2019-10-4</releaseNotes>
+    <tags>UIPath UIPathStudio Robot uipathrobot</tags>
+    <dependencies></dependencies>
+  </metadata>
+</package>
