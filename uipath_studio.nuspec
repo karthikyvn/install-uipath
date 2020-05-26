@@ -3,13 +3,17 @@
   <metadata>
     <id>uipathstudio</id>
     <version>2019.10.4</version>
+    <packageSourceUrl>https://github.com/karthikyvn/install-uipath</packageSourceUrl>
     <title>UIPath Studio</title>
     <authors>UIPath</authors>
-    <owners>UIPath</owners>
+    <owners>Karteek YVN</owners>
+    <licenseUrl>https://docs.uipath.com/installation-and-upgrade/docs/studio-activating-your-studio-license</licenseUrl>
+    <projectUrl>https://docs.uipath.com/studio/docs/introduction</projectUrl>
+    <iconUrl>https://media.glassdoor.com/sqll/1102519/uipath-squarelogo-1571834817890.png</iconUrl>
+    <projectSourceUrl>https://github.com/karthikyvn/install-uipath</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Installs UIPath Studio and Robot</description>
     <summary>Design, develop and publish UIPath projects</summary>
-    <releaseNotes>https://docs.uipath.com/releasenotes/docs/studio-2019-10-4</releaseNotes>
     <tags>UIPath UIPathStudio Robot uipathrobot</tags>
-    <dependencies></dependencies>
   </metadata>
 </package>
